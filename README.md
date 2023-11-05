@@ -1,5 +1,5 @@
 # Cohort-Analysis
-
+(Notes) White background for visualisation pictures. Links to SQL code and dashboard when uploaded.
 # Overview
 For this project, cohort analysis was used to examine customer retention among an ecommerce store. This was performed by grouping customers by their acquisition date and tracking their monthly purchasing behaviour.
 
