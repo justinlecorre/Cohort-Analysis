@@ -6,6 +6,6 @@ For this project, cohort analysis was used to examine customer retention among a
 Steps taken:
 
 - Cleaned data in MS SQL by removing null values and cancelled orders
-- Identified the date in which each customer made their first purchase with the company and developed acquisition cohorts
+- Extracted the date in which each customer made their first purchase with the company and developed acquisition cohorts
 - Created a cohort index for each order showing the number of months passed since the customer's first purchase
 - Imported data in Tableau and visualised findings
