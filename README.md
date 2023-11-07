@@ -45,7 +45,7 @@ This is evident as reading the chart diagonally allows you to compare how all th
 
 While seasonal trends in customer behaviour is expected, this can provide opportunities for the company to capitalize on.
 
-In this case, the company could target these November customers to increase retention beyond the holiday period. This could be achieved through various marketing strategies such as:
+In this case, the company could target these customers to increase retention beyond the holiday period. This could be achieved through various marketing strategies such as:
 
 - Sending emails
 -
