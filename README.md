@@ -38,7 +38,8 @@ When looking across all the cohorts, it appears that customer retention occured 
 ![image](https://github.com/justinlecorre/Cohort-Analysis/assets/137729013/f293037d-11a3-47bd-b91d-5c9806e2ff02)
 
 This is evident as reading the chart diagonally allows you to compare how all the cohorts behaved in a specific month.  
-- As such, when looking at the highlighted area, retention occured the most during November for most cohorts.
+- As such, when looking at the highlighted area, retention occurred the most during November for most cohorts.
+- An increase in retention during this period can be associated with events such as Black Friday and the Christmas season.
 
 # Action
 
@@ -46,7 +47,7 @@ While seasonal trends in customer behaviour is expected, this can provide opport
 
 In this case, the company could target these November customers to increase retention beyond the holiday period. This could be achieved through various marketing strategies such as:
 
--
+- Sending emails
 -
 -
 
