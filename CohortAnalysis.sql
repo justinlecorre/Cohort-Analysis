@@ -56,7 +56,7 @@ select * from cohort
 select
 	fff.*,
 	cohortindex = year_diff * 12 + month_diff  -- 3) Calculating the elapsed months since first purchase.
-from												-- 0 = first purchase date. 1 = customer returned 1 month after first purchase
+from							-- 0 = first purchase date. 1 = customer returned 1 month after first purchase
 	(
 		select
 			ff.*,
