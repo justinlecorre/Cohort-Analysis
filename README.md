@@ -37,8 +37,8 @@ When looking across all the cohorts, it appears that customer retention occured 
 
 ![image](https://github.com/justinlecorre/Cohort-Analysis/assets/137729013/f293037d-11a3-47bd-b91d-5c9806e2ff02)
 
-This is evident as reading the chart diagonally allows you compare how all the cohorts behaved in a specific month.  
-- As such, when looking at the highlighted area, most cohorts saw the most retention during November.
+This is evident as reading the chart diagonally allows you to compare how all the cohorts behaved in a specific month.  
+- As such, when looking at the highlighted area, retention occured the most during November for most cohorts.
 
 
 
