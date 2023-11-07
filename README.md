@@ -40,5 +40,13 @@ When looking across all the cohorts, it appears that customer retention occured 
 This is evident as reading the chart diagonally allows you to compare how all the cohorts behaved in a specific month.  
 - As such, when looking at the highlighted area, retention occured the most during November for most cohorts.
 
+# Action
 
+While seasonal trends in customer behaviour is expected, this can provide opportunities for the company to capitalize on.
+
+In this case, the company could target these November customers to increase retention beyond the holiday period. This could be achieved through various marketing strategies such as:
+
+-
+-
+-
 
