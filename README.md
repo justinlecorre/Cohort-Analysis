@@ -55,5 +55,5 @@ Email marketing campaign
 
 Customer loyalty programme
 
-- Implement a customer loyalty programme to provide an incentive for customers to return to the company
+- Implementing a customer loyalty programme could provide an incentive for these customers to return outside of the holiday period
 
