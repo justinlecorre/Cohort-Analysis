@@ -1,6 +1,4 @@
 # Cohort-Analysis
-(Notes) White background for visualisation pictures. Links to SQL code and dashboard when uploaded.
-# Overview
 For this project, cohort analysis was used to examine customer retention among an ecommerce store. This was performed by grouping customers by their acquisition date and tracking their monthly purchasing behaviour.
 
 Steps taken:
@@ -25,5 +23,9 @@ How to read:
 
 - Each row represents a cohort of customers - 'Cohort' on this chart refers to the year & month in which a group of customers made their first ever purchase
 - Each column represents the number of months passed since the first purchase - Showing how many customers from a cohort made another purchase and how many months after their first purchase this occurred
+
+For example, looking down the columns, 37% of the customers acquired in December 2010 returned 1 month after their first purchase which is higher than all the other cohorts.
+
+![image](https://github.com/justinlecorre/Cohort-Analysis/assets/137729013/6238dde1-2321-4c0e-8b68-00e0c9b635f8)
 
 
