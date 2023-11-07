@@ -39,7 +39,7 @@ When looking across all the cohorts, it appears that customer retention occured 
 
 This is evident as reading the chart diagonally allows you to compare how all the cohorts behaved in a specific month.  
 - As such, when looking at the highlighted area, retention occurred the most during November for most cohorts.
-- An increase in retention during this period can be associated with events such as Black Friday and the Christmas season.
+- An increase in retention during this period can potentially be associated with events such as Black Friday and the Christmas season.
 
 # Action
 
