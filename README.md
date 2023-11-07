@@ -19,7 +19,7 @@ Links
 
 Using Tableau, a cohort matrix was developed to visualise the retention among each customer cohort.
 
-The Y-axis represents the cohorts - The months in which a group of customers made their first ever purchase  
+The Y-axis represents the cohorts - the month in which a group of customers made their first ever purchase  
 The X-axis represents the number of months passed since the first purchase
 
 ![image](https://github.com/justinlecorre/Cohort-Analysis/assets/137729013/6e8a0ff9-e765-4b6d-9c54-1436b3c4fa55)
