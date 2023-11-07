@@ -50,6 +50,8 @@ In this case, the company could target these customers to increase retention bey
 Email marketing campaign
 
 - Develop an email campaign to retarget customers in the months following the holiday period
+- This could be a personalised email campaign to target seasonal buyers with emails tailored based on their particular behaviour
+- Such communication with customers based on their specific interests could increase retention beyond November
 
 Customer loyalty programme
 
