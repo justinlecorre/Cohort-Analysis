@@ -47,7 +47,11 @@ While seasonal trends in customer behaviour is expected, this can provide opport
 
 In this case, the company could target these customers to increase retention beyond the holiday period. This could be achieved through various marketing strategies such as:
 
-- Sending emails
--
+Develop an email campaign to retarget customers in the months following the holiday period
+
+- 
+
+Implement a customer loyalty programme to provide an incentive for customers to return to the company
+
 -
 
