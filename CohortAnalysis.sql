@@ -60,7 +60,7 @@ from							-- 0 = first purchase date. 1 = customer returned 1 month after first
 	(
 		select
 			ff.*,
-			year_diff = Order_year - cohort_year,		-- 2) Current order date - cohort date (difference in year & months)
+			year_diff = Order_year - cohort_year,		-- 2) Current order date - cohort date (calculating difference in year & months)
 			month_diff = Order_month - cohort_month			-- year_diff is used because of more than one year in data (2010&2011)
 		from
 			(
