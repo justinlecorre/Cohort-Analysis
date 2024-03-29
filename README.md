@@ -34,11 +34,11 @@ For example, looking down the columns, 37% of the customers acquired in the Dece
 
 When looking across all the cohorts, it appears that customer retention occured the most during November.
 
-This is evident as reading the chart diagonally allows you to compare how all the cohorts behaved in a specific month.
+This is evident as reading the chart diagonally allows you to compare how all the cohorts behaved in a specific month. As such, when looking at the highlighted area, retention occurred the most during November for most cohorts.
 
 ![image](https://github.com/justinlecorre/Cohort-Analysis/assets/137729013/f293037d-11a3-47bd-b91d-5c9806e2ff02)
 
-- For instance, 50% of the 2010-12-01 cohort returned 11 months after their first purchase which falls on November.
+- For example, 50% of the 2010-12-01 cohort returned 11 months after their first purchase which falls on November.
 
 ![image](https://github.com/justinlecorre/Cohort-Analysis/assets/137729013/6803cf10-7b44-4a3d-a580-637b3a22f868)
 
