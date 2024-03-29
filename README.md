@@ -64,5 +64,5 @@ Customer loyalty programme
 - Implementing a customer loyalty programme could provide an incentive for these customers to return outside of the holiday period
 - This could be in the form of rewards, discounts and offers.
 
-In summary, cohort analysis has highlighted a seasonal trend among the customers and such strategies could help to increase retention beyond the holiday period.
+In summary, cohort analysis has highlighted a seasonal trend among the customers and such strategies could help to increase retention in the months following the holiday period.
 
