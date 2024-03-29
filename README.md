@@ -26,7 +26,8 @@ How to read:
 
 For example, looking down the columns, 37% of the customers acquired in the December 2010 cohort returned 1 month after their first purchase which is higher than all the other cohorts.
 
-![image](https://github.com/justinlecorre/Cohort-Analysis/assets/137729013/6238dde1-2321-4c0e-8b68-00e0c9b635f8)
+![image](https://github.com/justinlecorre/Cohort-Analysis/assets/137729013/1881e809-23cb-4fb6-b0a5-a4c66dcdc0d8)
+
 
 
 ### Seasonal Trend
