@@ -33,12 +33,14 @@ For example, looking down the columns, 37% of the customers acquired in the Dece
 ### Seasonal Trend
 
 When looking across all the cohorts, it appears that customer retention occured the most during November.
-- For instance, 50% of the 2010-12-01 cohort returned in November.
-- Among the 2011-06-01 cohort, 17% returned after 1 month but later increased to 33% after 5 months which falls on November.
+This is evident as reading the chart diagonally allows you to compare how all the cohorts behaved in a specific month.
 
 ![image](https://github.com/justinlecorre/Cohort-Analysis/assets/137729013/f293037d-11a3-47bd-b91d-5c9806e2ff02)
 
-This is evident as reading the chart diagonally allows you to compare how all the cohorts behaved in a specific month.  
+- For instance, 50% of the 2010-12-01 cohort returned 11 months after their first purchase which happens to be in November.
+- Among the 2011-06-01 cohort, 17% returned after 1 month but later increased to 33% after 5 months which falls on November.
+
+
 - As such, when looking at the highlighted area, retention occurred the most during November for most cohorts.
 - An increase in retention during this period can potentially be associated with events such as Black Friday and the Christmas season.
 
