@@ -46,7 +46,7 @@ This is evident as reading the chart diagonally allows you to compare how all th
 
 ![image](https://github.com/justinlecorre/Cohort-Analysis/assets/137729013/7db56737-21e0-4eb2-9e94-818577578ebc)
 
-- An increase in retention during this period can potentially be associated with events such as Black Friday and the Christmas season.
+An increase in retention during this period can potentially be associated with events such as Black Friday and the Christmas season.
 
 # Action
 
