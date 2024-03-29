@@ -11,7 +11,7 @@ Steps taken:
 Links
 
 - The SQL component of this project can be viewed in [CohortAnalysis.sql](https://github.com/justinlecorre/Cohort-Analysis/blob/main/CohortAnalysis.sql)
-- The dashboard in Tableau can be viewed on my Tableau Public page (here)
+- The dashboard in Tableau can be viewed on my Tableau Public page [here](https://public.tableau.com/app/profile/justin.le.corre/viz/Cohort2_16989409017990/Dashboard1)
 
 # Findings
 
