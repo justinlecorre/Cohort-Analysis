@@ -38,15 +38,15 @@ This is evident as reading the chart diagonally allows you to compare how all th
 
 ![image](https://github.com/justinlecorre/Cohort-Analysis/assets/137729013/f293037d-11a3-47bd-b91d-5c9806e2ff02)
 
-- For example, 50% of the 2010-12-01 cohort returned 11 months after their first purchase which falls on November.
+- For example, 50% of the 2010-12-01 cohort returned 11 months after their first purchase which falls on November
 
 ![image](https://github.com/justinlecorre/Cohort-Analysis/assets/137729013/6803cf10-7b44-4a3d-a580-637b3a22f868)
 
-- Among the 2011-06-01 cohort, 17% returned after 1 month but later increased to 33% in the fifth month which also falls on November.
+- Among the 2011-06-01 cohort, 17% returned after 1 month but later increased to 33% in the fifth month which also falls on November
 
 ![image](https://github.com/justinlecorre/Cohort-Analysis/assets/137729013/7db56737-21e0-4eb2-9e94-818577578ebc)
 
-An increase in retention during this period can potentially be associated with events such as Black Friday and the Christmas season.
+An increase in retention during this period can potentially be associated with events such as Black Friday and the Christmas season
 
 # Action
 
