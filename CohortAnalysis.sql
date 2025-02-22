@@ -28,7 +28,7 @@ select *
 into finalsales
 from returneditems
 
---Clean data is now in finalsales table
+--Clean data is now in finalsales table --(No empty rows and cancelled orders)
 
 select * from finalsales
 
