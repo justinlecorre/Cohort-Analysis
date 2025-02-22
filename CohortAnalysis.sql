@@ -1,5 +1,5 @@
 
---Inspecting data
+--Inspecting data 
 
 select *
 from RetailSales
