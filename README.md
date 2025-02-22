@@ -56,10 +56,10 @@ In this case, the company could target these customers to increase retention bey
 
 Email marketing campaign
 
-- Develop an email campaign to target customers to encourage customers to return after the holiday period
+- Develop an email campaign to encourage customers to return after the holiday period
 - This could be in the form of personalised messages being sent to customers tailored towards their particular behaviour with the company
 - For example, a customer could be provided with recommendations for other products that may interest them based on their previous purchases or browsing history
-- A customer could be recommended a product which is frequently purchased with other products they have purchased or viewed on the ecommerce store
+- A customer could receive an email recommending a product which is frequently purchased with other products they have purchased or viewed on the ecommerce store
 
 Customer loyalty programme
 
