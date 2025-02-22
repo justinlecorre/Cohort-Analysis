@@ -59,6 +59,7 @@ Email marketing campaign
 - Develop an email campaign to target customers in the months following the holiday period
 - This could be in the form of personalised emails towards those seasonal buyers with messages tailored based on their particular behaviour with the company
 - For example, a customer could be provided with recommendations for other products that may interest them based on their previous purchases or browsing history
+- A customer could be recommended a product which is frequently purchased with other products they have purchased or viewed
 
 Customer loyalty programme
 
