@@ -10,7 +10,7 @@ where CustomerID is null
 
 --Identified empty rows in CustomerID
 
---1st step is to place clean data inside temp table --- --(remove empty rows and cancelled orders)
+--1st step is to place clean data inside temp table --- (remove empty rows and cancelled orders)
 
 ;with emptysales as
 (
@@ -28,7 +28,7 @@ select *
 into finalsales
 from returneditems
 
---Clean data is now in finalsales table
+--Clean data is now in 'finalsales' table
 
 select * from finalsales
 
